@@ -117,8 +117,8 @@ function ToDoList(){
             else if(Filter == "All"){ // Filtr wszystkich
                 return item;
             }
-          })
-          
+          }) 
+           
         }
       </ol>
       <div>
